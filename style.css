@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.pointer {
+    cursor: pointer;
+}
+
+.border-right {
+    border-right: 5px solid black;
+}
+
+.hover:hover {
+    color: white;
+    background-color: orange;
+}
